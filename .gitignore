@@ -1,0 +1,8 @@
+*.gem
+.byebug_history
+.rspec_status
+./index.html
+node_modules
+.DS_Store
+spec/fixtures/step_definitions/from_ek/
+spec/cucumber_steps_list_spec_from_ek.rb
