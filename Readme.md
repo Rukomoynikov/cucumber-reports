@@ -4,7 +4,7 @@
 
 Sometimes we need to have general view of the deifinitions in out projects. Using this tool you can create an independent html file with all step definitions from the project. 
 
-[Example of a generated HTML file](https://raw.githubusercontent.com/Rukomoynikov/cucumber-reports/main/github_readme/activeadmin.html)
+<!-- [Example of a generated HTML file](https://raw.githubusercontent.com/Rukomoynikov/cucumber-reports/main/github_readme/activeadmin.html) -->
 
 ### Roadmap:
 - [x] Building packed HTML file
